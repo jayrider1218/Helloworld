@@ -1,2 +1,2 @@
-# Helloworld
-its a test git.
+#Hello, I'm LeungkitLun at CUHK CSE!!
+

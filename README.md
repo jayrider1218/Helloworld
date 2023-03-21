@@ -1,2 +1,2 @@
-#Hello, I'm LeungkitLun at CUHK CSE!!
+#Hello, I'm LeungkitLun at CUHK CSE.
 

@@ -1,3 +1,3 @@
-#Hello, I'm LeungkitLun at CUHK CSE.
+#Hello, I'm Leung kitLun!
 
 My student Number is 115157719.
